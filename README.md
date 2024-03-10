@@ -16,3 +16,6 @@ This C project provides a set of image processing operations that manipulate the
 3. Compile the project using Microsoft Visual Studio on Windows 10 or 11.
 
 ## Example
+
+Original file 1280×853
+![sample_1280×853](https://github.com/adavesik/ImageProcessingFractals/assets/4726494/593b54db-ca62-420f-b28e-32b5513e53bf)
